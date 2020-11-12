@@ -5,6 +5,8 @@ I really like robotics and everything connected to it.  If you have interesting 
 <a href="https://t.me/sevocrear"><img align="center" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png"></a>
 <a href="https://www.linkedin.com/in/ilya-sevostyanov-7abb671b0"><img align="center" width="30" height="30" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"></a>
 
+<a href="https://drive.google.com/file/d/1sLI1PcuXUykGJruWCsF0lInMuZuAmRVe/view?usp=sharing"><img align="center" width="30" height="30" src="https://pngimg.com/uploads/cv/cv_PNG38.png"></a>
+
 You can see my **public** stats:
 
 <a href="https://github.com/sevocrear">

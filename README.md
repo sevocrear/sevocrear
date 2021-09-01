@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-I really like robotics and everything connected to it.  If you have interesting project, just type me. 
+I really like robotics & Computer Vision.  If you have interesting project, just type me. 
 
 <a href="https://t.me/sevocrear"><img align="center" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png"></a>
 <a href="https://www.linkedin.com/in/sevocrear"><img align="center" width="30" height="30" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"></a>
